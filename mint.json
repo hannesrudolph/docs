@@ -47,13 +47,23 @@
       "url": "https://spec.modelcontextprotocol.io"
     }
   ],
+  "tabs": [
+    {
+      "name": "SDK",
+      "url": "sdk"
+    }
+  ],
   "navigation": [
     {
       "group": "SDK",
       "pages": [
         {
           "group": "Java",
-          "pages": ["sdk/java/mcp-overview", "sdk/java/mcp-client", "sdk/java/mcp-server"]
+          "pages": [
+            "sdk/java/mcp-overview",
+            "sdk/java/mcp-client",
+            "sdk/java/mcp-server"
+          ]
         }
       ]
     },
